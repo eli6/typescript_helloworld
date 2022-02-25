@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es6",
+      "sourceMap": true,
+      "outDir": "dist"
+    }
+  }
+  //https://www.digitalocean.com/community/tutorials/setting-up-a-node-project-with-typescript
+  //https://code.visualstudio.com/docs/typescript/typescript-tutorial
